@@ -1,0 +1,5 @@
+#!/bin/bash	
+alias proj="cd /home/subhendu/Eclipse Projects/customerManagement"
+echo "you are in Project directory"
+mvn clean install
+done
